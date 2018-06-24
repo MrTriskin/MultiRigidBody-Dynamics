@@ -23,7 +23,7 @@ namespace
 	
 	Body* bomb = NULL;
 
-	float timeStep = 1.0f / 1200.0f;
+	float timeStep = 1.0f / 120.0f;
 	int iterations = 10;
 	Vec2 gravity(0.0f, -10.0f);
 
@@ -73,9 +73,9 @@ void DrawBody(Body* body)
 	Vec2 v4 = x + R * Vec2(-h.x,  h.y);
 
 	if (body == bomb)
-		glColor3f(0.4f, 0.9f, 0.4f);
+		glColor3f(0.4f, 0.9f, 0.4f);  //bomb
 	else
-		glColor3f(0.8f, 0.8f, 0.9f);
+		glColor3f(0.8f, 0.8f, 0.9f); //others
 
 	glBegin(GL_LINE_LOOP);
 	glVertex2f(v1.x, v1.y);

@@ -44,7 +44,7 @@ void Body::Set(const Vec2& w, float m)
 	if (mass < FLT_MAX)
 	{
 		invMass = 1.0f / mass;
-		I = mass * (width.x * width.x + width.y * width.y) / 12.0f;
+		I = mass * (width.x * width.x + width.y * width.y);   // I = sum(m*r^2)
 		invI = 1.0f / I;
 	}
 	else
