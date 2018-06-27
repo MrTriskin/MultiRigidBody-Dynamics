@@ -16,3 +16,5 @@ B: Launch the heavier "bomb".
 N: Shoot the normal "bomb" horizontally.
 ESC: Exit.
 
+The link below is the video of our demo.
+Wait, video is not ready.
