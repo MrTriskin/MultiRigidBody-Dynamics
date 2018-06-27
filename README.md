@@ -14,4 +14,5 @@ Number 1,2,3,4: Switch to the demo1, demo2, demo3 and demo4.
 Space: Launch the normal "bomb".
 B: Launch the heavier "bomb".
 N: Shoot the normal "bomb" horizontally.
+ESC: Exit.
 
