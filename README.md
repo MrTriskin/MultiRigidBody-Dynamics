@@ -26,7 +26,13 @@ The Project1.exe in Release folder is the demo program. Use keyboard to control 
 
 * ESC: Exit.
 
+
+
 # Video
 The link below is the video of our demo.
 
 Wait, video is not ready.
+
+![Demo](./image/m1.jpg)
+
+![Demo](./image/m3.jpg)
