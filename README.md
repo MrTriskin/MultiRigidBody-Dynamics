@@ -31,7 +31,7 @@ The Project1.exe in Release folder is the demo program. Use keyboard to control 
 # Video
 The link below is the video of our demo.
 
-Wait, video is not ready.
+[Our video on YouTube](https://youtu.be/eT1t9TNdUvE).
 
 ![Demo](./image/m1.jpg)
 
